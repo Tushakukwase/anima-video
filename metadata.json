@@ -1,0 +1,6 @@
+{
+  "name": "AnimaStudio - AI Video to Animation Studio",
+  "description": "Transform any video into stunning anime, cartoon, and stylized art with zero API costs, 100% local offline processing, batch rendering, and real-time preview.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
